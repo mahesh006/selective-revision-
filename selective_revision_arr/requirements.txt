@@ -1,0 +1,9 @@
+torch>=2.4
+transformers>=4.57
+accelerate>=1.0
+bitsandbytes>=0.45
+datasets>=3.0
+numpy>=1.26
+tqdm>=4.66
+sentencepiece>=0.2
+protobuf>=5.0
